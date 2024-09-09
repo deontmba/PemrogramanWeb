@@ -45,6 +45,7 @@ input[readonly] {
 }
 
 button {
+    width: 45px;
     padding: 10px;
     background-color: #4CAF50;
     color: white;
